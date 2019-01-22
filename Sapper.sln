@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sapper", "Sapper\Sapper.csproj", "{B15079A0-7AC5-4CC9-96DE-CF0949AC2418}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B15079A0-7AC5-4CC9-96DE-CF0949AC2418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B15079A0-7AC5-4CC9-96DE-CF0949AC2418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B15079A0-7AC5-4CC9-96DE-CF0949AC2418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B15079A0-7AC5-4CC9-96DE-CF0949AC2418}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D05D48C9-EA78-4035-B862-E454BB51763D}
+	EndGlobalSection
+EndGlobal
